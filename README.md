@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-    body {
-        background-color: #ffffff;
-    }
-</style>
-</head>
-<body>
-
 # **Striver’s SDE Sheet With It’s Short Algo and Complexities**
 
 In this valuable contribution, we present a meticulously curated PDF file designed to assist college students aspiring to excel as software developers. My comprehensive guide includes a compilation of questions, problem-solving approaches, concise algorithms, and the associated time and space complexities, all based on Striver's SDE sheet. By following this guide, students can efficiently prepare for interviews within a short time frame of 3 to 4 hours. The questions presented have been handpicked by Striver bhaiya, making them particularly significant and beneficial for interview preparation.
@@ -21,6 +10,3 @@ In this valuable contribution, we present a meticulously curated PDF file design
 4. **Time & Space Complexities:** The complexities associated with each solution are outlined, giving students a holistic understanding of performance considerations.
 
 *Please ensure to credit the original source and author, Raj Vikramaditya (Striver Bhaiya), for the questions included in the study guide.*
-
-</body>
-</html>
